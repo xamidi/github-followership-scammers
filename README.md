@@ -9,13 +9,14 @@ In order to not let such selfish people profit from my kindness, I
 - unfollow them and unstar all their repositories (if any), and
 - expose them via the list below.
 
-**I will *not* add people to this list, whose deeds I did not witness myself.**  
+**I will *not* add people to this list whose actions I have not witnessed myself.**  
 But I encourage you to create your own lists based on your experiences. Feel free to fork or partially copy this repository.
 
 ###### List of Scammers
 
 |                | User            | Name<sup>✻</sup> |
 | -------------- | --------------- | ----------------- |
+| ![](https://avatars.githubusercontent.com/u/116379485?size=32) | [codeWithEdison](https://github.com/codeWithEdison) | **Edison UWIHANGANYE** |
 | ![](https://avatars.githubusercontent.com/u/126691024?size=32) | [miirshe](https://github.com/miirshe) | **Abdikafi Isse Isak** |
 | ![](https://avatars.githubusercontent.com/u/128073754?size=32) | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | **Mr. David** |
 | ![](https://avatars.githubusercontent.com/u/113196071?size=32) | [RyanD177](https://github.com/RyanD177) | **Ryan Dixon** |
@@ -24,3 +25,5 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/124587241?size=32) | [yogesh45789](https://github.com/yogesh45789) | **Yug_Dev_93** |
 
 <sup>✻</sup><sub>possibly obsolete</sub>
+
+I will keep all entries, except for those who manage to go down to zero followers and request removal in [discussions](https://github.com/xamidi/github-followership-scammers/discussions).
