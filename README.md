@@ -1,11 +1,11 @@
-## Followership Scammers on GitHub
+## Followership Scammers on GitHub ([repository](https://github.com/xamidi/github-followership-scammers))
 
 I like to follow people back when they have decent looking profiles.
 But there are people on GitHub trying to look "important" by following many users, only to **unfollow** them **after being followed back**.  
 So they often end up with hundreds of followers while only following a few accounts, and can use their profiles to further scam third parties, such as employers or maintainers.
 
 In order to not let such selfish people profit from my kindness, I
-- use [whosnotfollowing.github.io](https://whosnotfollowing.github.io/) ([repo](https://github.com/whosnotfollowing/whosnotfollowing.github.io)) to detect them,
+- use [whosnotfollowing.github.io](https://whosnotfollowing.github.io/) ([repository](https://github.com/whosnotfollowing/whosnotfollowing.github.io)) to detect them,
 - unfollow them and unstar all their repositories (if any), and
 - expose them via the list below.
 
