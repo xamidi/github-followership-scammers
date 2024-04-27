@@ -19,6 +19,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/156615728?size=32) | [blocage](https://github.com/blocage) | **David** |
 | ![](https://avatars.githubusercontent.com/u/116379485?size=32) | [codeWithEdison](https://github.com/codeWithEdison) | **Edison UWIHANGANYE** |
 | ![](https://avatars.githubusercontent.com/u/31302763?size=32) | [gr8monk3ys](https://github.com/gr8monk3ys) | **Lorenzo** |
+| ![](https://avatars.githubusercontent.com/u/79121349?size=32) | [johncarlosofficial](https://github.com/johncarlosofficial) | **John Carlos** |
 | ![](https://avatars.githubusercontent.com/u/126691024?size=32) | [miirshe](https://github.com/miirshe) | **Abdikafi Isse Isak** |
 | ![](https://avatars.githubusercontent.com/u/128073754?size=32) | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | **Mr. David** |
 | ![](https://avatars.githubusercontent.com/u/113196071?size=32) | [RyanD177](https://github.com/RyanD177) | **Ryan Dixon** |
