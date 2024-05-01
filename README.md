@@ -16,6 +16,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 
 |                | User            | Name<sup>✻</sup> |
 | -------------- | --------------- | ----------------- |
+| ![](https://avatars.githubusercontent.com/u/68489612?size=32) | [AlizayAyesha](https://github.com/AlizayAyesha) | **Alizay** |
 | ![](https://avatars.githubusercontent.com/u/156615728?size=32) | [blocage](https://github.com/blocage) | **David** |
 | ![](https://avatars.githubusercontent.com/u/116379485?size=32) | [codeWithEdison](https://github.com/codeWithEdison) | **Edison UWIHANGANYE** |
 | ![](https://avatars.githubusercontent.com/u/31302763?size=32) | [gr8monk3ys](https://github.com/gr8monk3ys) | **Lorenzo** |
