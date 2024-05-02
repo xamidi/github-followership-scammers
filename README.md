@@ -26,6 +26,8 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/113196071?size=32) | [RyanD177](https://github.com/RyanD177) | **Ryan Dixon** |
 | ![](https://avatars.githubusercontent.com/u/17948260?size=32) | [shahradelahi](https://github.com/shahradelahi) | **Shahrad Elahi** |
 | ![](https://avatars.githubusercontent.com/u/120581772?size=32) | [Soumilgit](https://github.com/Soumilgit) | **Soumil Mukhopadhyay** |
+| ![](https://avatars.githubusercontent.com/u/112781610?size=32) | [victorpreston](https://github.com/victorpreston) | **Victor Preston** |
+| ![](https://avatars.githubusercontent.com/u/63226975?size=32) | [vontanne](https://github.com/vontanne) | **Johannes** |
 | ![](https://avatars.githubusercontent.com/u/124587241?size=32) | [yogesh45789](https://github.com/yogesh45789) | **Yug_Dev_93** |
 
 <sup>✻</sup><sub>possibly obsolete</sub>
