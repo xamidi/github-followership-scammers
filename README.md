@@ -12,6 +12,8 @@ In order to not let such selfish people profit from my kindness, I
 **I will *not* add people to this list whose actions I have not witnessed myself.**  
 But I encourage you to create your own lists based on your experiences. Feel free to fork or partially copy this repository.
 
+Users with large images have set their profile to private, in which case I refer to (non-shrinkable) archived images.
+
 ###### List of Scammers
 
 |                | User            | Name<sup>✻</sup> |
@@ -24,7 +26,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/31433211?size=32) | [Kwynto](https://github.com/Kwynto) | **Constantine Zavezeon** |
 | ![](https://avatars.githubusercontent.com/u/126691024?size=32) | [miirshe](https://github.com/miirshe) | **Abdikafi Isse Isak** |
 | ![](https://avatars.githubusercontent.com/u/128073754?size=32) | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | **Mr. David** |
-| ![](https://avatars.githubusercontent.com/u/113196071?size=32) | [RyanD177](https://github.com/RyanD177) | **Ryan Dixon** |
+| ![](https://web.archive.org/web/20240416155433im_/https://avatars.githubusercontent.com/u/113196071?v=4) | <s>[RyanD177](https://github.com/RyanD177)</s> ([archive](https://web.archive.org/web/20240416155429/https://github.com/RyanD177))<br>[birdistheword7](https://github.com/birdistheword7) | **Ryan Dixon** |
 | ![](https://avatars.githubusercontent.com/u/17948260?size=32) | [shahradelahi](https://github.com/shahradelahi) | **Shahrad Elahi** |
 | ![](https://avatars.githubusercontent.com/u/120581772?size=32) | [Soumilgit](https://github.com/Soumilgit) | **Soumil Mukhopadhyay** |
 | ![](https://avatars.githubusercontent.com/u/112781610?size=32) | [victorpreston](https://github.com/victorpreston) | **Victor Preston** |
