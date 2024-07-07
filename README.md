@@ -23,6 +23,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/31302763?size=32) | [gr8monk3ys](https://github.com/gr8monk3ys) | **Lorenzo** |
 | ![](https://avatars.githubusercontent.com/u/79121349?size=32) | [johncarlosofficial](https://github.com/johncarlosofficial) | **John Carlos** |
 | ![](https://avatars.githubusercontent.com/u/31433211?size=32) | [Kwynto](https://github.com/Kwynto) | **Constantine Zavezeon** |
+| ![](https://avatars.githubusercontent.com/u/96153374?size=32) | [laluxx](https://github.com/laluxx) | |
 | ![](https://avatars.githubusercontent.com/u/27551874?size=32) | [libraiger](https://github.com/libraiger) | **libraiger** |
 | ![](https://avatars.githubusercontent.com/u/126691024?size=32) | [miirshe](https://github.com/miirshe) | **Abdikafi Isse Isak** |
 | ![](https://avatars.githubusercontent.com/u/45526899?size=32) | [MisterRust](https://github.com/MisterRust) | **Mr Rust** |
