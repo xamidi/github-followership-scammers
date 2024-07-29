@@ -29,6 +29,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/45526899?size=32) | [MisterRust](https://github.com/MisterRust) | **Mr Rust** |
 | ![](https://avatars.githubusercontent.com/u/162185250?size=32) | [next2golang](https://github.com/next2golang) | **Sam** |
 | ![](https://avatars.githubusercontent.com/u/128073754?size=32) | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | **Mr. David** |
+| ![](https://avatars.githubusercontent.com/u/64363113?size=32) | [qpeckin](https://github.com/qpeckin) | |
 | ![](img/deleted.png) | <s>[RyanD177](https://github.com/RyanD177)</s> ([archive](https://web.archive.org/web/20240416155429/https://github.com/RyanD177))<br><s>[birdistheword7](https://github.com/birdistheword7)</s> | **Ryan Dixon** |
 | ![](https://avatars.githubusercontent.com/u/17948260?size=32) | [shahradelahi](https://github.com/shahradelahi) | **Shahrad Elahi** |
 | ![](https://avatars.githubusercontent.com/u/112781610?size=32) | [victorpreston](https://github.com/victorpreston) | **Victor Preston** |
