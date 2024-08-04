@@ -22,6 +22,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/115120777?size=32) | [dayoonasanya](https://github.com/dayoonasanya) | **Adedayo Onasanya** |
 | ![](https://avatars.githubusercontent.com/u/31302763?size=32) | [gr8monk3ys](https://github.com/gr8monk3ys) | **Lorenzo** |
 | ![](https://avatars.githubusercontent.com/u/79121349?size=32) | [johncarlosofficial](https://github.com/johncarlosofficial) | **John Carlos** |
+| ![](https://avatars.githubusercontent.com/u/117844250?size=32) | <s>[codeWithDavide](https://github.com/codeWithDavide)</s><br><s>[you-lost-me](https://github.com/you-lost-me)</s> ([archive](https://web.archive.org/web/20240803022346/https://github.com/you-lost-me))<br>[JyaburaniTech](https://github.com/JyaburaniTech) | **Mr. David**<br>**You lost**<br>**Jyaburani Tech** |
 | ![](https://avatars.githubusercontent.com/u/31433211?size=32) | [Kwynto](https://github.com/Kwynto) | **Constantine Zavezeon** |
 | ![](https://avatars.githubusercontent.com/u/96153374?size=32) | [laluxx](https://github.com/laluxx) | |
 | ![](https://avatars.githubusercontent.com/u/27551874?size=32) | [libraiger](https://github.com/libraiger) | **libraiger** |
