@@ -28,6 +28,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/27551874?size=32) | [libraiger](https://github.com/libraiger) | **libraiger** |
 | ![](https://avatars.githubusercontent.com/u/126691024?size=32) | [miirshe](https://github.com/miirshe) | **Abdikafi Isse Isak** |
 | ![](https://avatars.githubusercontent.com/u/162185250?size=32) | [next2golang](https://github.com/next2golang) | **Sam** |
+| ![](https://avatars.githubusercontent.com/u/170834894?size=32) | [osiristape](https://github.com/osiristape) | **オシリス** |
 | ![](https://avatars.githubusercontent.com/u/128073754?size=32) | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | **Mr. David** |
 | ![](https://avatars.githubusercontent.com/u/64363113?size=32) | [qpeckin](https://github.com/qpeckin) | |
 | ![](https://avatars.githubusercontent.com/u/75214035?size=32) | [ramazancetinkaya](https://github.com/ramazancetinkaya) | **Ramazan Çetinkaya** |
