@@ -25,10 +25,10 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | ![](https://avatars.githubusercontent.com/u/117844250?size=32) | <s>[codeWithDavide](https://github.com/codeWithDavide)</s><br><s>[you-lost-me](https://github.com/you-lost-me)</s> ([archive](https://web.archive.org/web/20240803022346/https://github.com/you-lost-me))<br><s>[JyaburaniTech](https://github.com/JyaburaniTech)</s> ([archive](https://web.archive.org/web/20240921110511/https://github.com/JyaburaniTech))<br>[NailTechLtd](https://github.com/NailTechLtd) | **Mr. David**<br>**You lost**<br>**Jyaburani Tech**<br>**Nail Tech Ltd** |
 | ![](https://avatars.githubusercontent.com/u/31433211?size=32) | [Kwynto](https://github.com/Kwynto) | **Constantine Zavezeon** |
 | ![](https://avatars.githubusercontent.com/u/96153374?size=32) | [laluxx](https://github.com/laluxx) | |
-| ![](https://avatars.githubusercontent.com/u/27551874?size=32) | <s>[libraiger](https://github.com/libraiger)</s> ([archive](https://web.archive.org/web/20240910034857/https://github.com/libraiger))<br>[degencap777](https://github.com/degencap777) | **libraiger**<br>**degencap777** |
+| ![](https://avatars.githubusercontent.com/u/27551874?size=32) | <s>[libraiger](https://github.com/libraiger)</s> ([archive](https://web.archive.org/web/20240910034857/https://github.com/libraiger))<br>[degencap777](https://github.com/degencap777) | **libraiger**<br>**Degen Capricorn** |
 | ![](https://avatars.githubusercontent.com/u/126691024?size=32) | [miirshe](https://github.com/miirshe) | **Abdikafi Isse Isak** |
 | ![](https://avatars.githubusercontent.com/u/162185250?size=32) | [next2golang](https://github.com/next2golang) | **Sam** |
-| ![](https://avatars.githubusercontent.com/u/170834894?size=32) | [osiristape](https://github.com/osiristape) | **混沌, オシリス** |
+| ![](https://avatars.githubusercontent.com/u/170834894?size=32) | [osiristape](https://github.com/osiristape) | **混沌, オシリス, #f0f3e3** |
 | ![](https://avatars.githubusercontent.com/u/128073754?size=32) | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | **Mr. David** |
 | ![](https://avatars.githubusercontent.com/u/64363113?size=32) | [qpeckin](https://github.com/qpeckin) | |
 | ![](https://avatars.githubusercontent.com/u/75214035?size=32) | [ramazancetinkaya](https://github.com/ramazancetinkaya) | **Ramazan Çetinkaya** |
