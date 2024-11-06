@@ -35,6 +35,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | [<img src="https://avatars.githubusercontent.com/u/45526899?size=32" width="32"/>](https://avatars.githubusercontent.com/u/45526899?size=32) | <s>[MisterRust](https://github.com/MisterRust)</s> ([archive](https://web.archive.org/web/20240704125825/https://github.com/MisterRust))<br>[Rust-Sol-Dev](https://github.com/Rust-Sol-Dev) | **Mr Rust**<br>**M̳̿͟͞r̳̿͟͞R̳̿͟͞u̳̿͟͞s̳̿͟͞t̳̿͟͞** |
 | ![](img/deleted.png) | <s>[RyanD177](https://github.com/RyanD177)</s> ([archive](https://web.archive.org/web/20240416155429/https://github.com/RyanD177))<br><s>[birdistheword7](https://github.com/birdistheword7)</s> | **Ryan Dixon** |
 | ![](https://avatars.githubusercontent.com/u/17948260?size=32) | [shahradelahi](https://github.com/shahradelahi) | **Shahrad Elahi** |
+| ![](https://avatars.githubusercontent.com/u/113549923?size=32) | [Tohidkhan6332](https://github.com/Tohidkhan6332) | **Tohid Khan** |
 | ![](https://avatars.githubusercontent.com/u/112781610?size=32) | [victorpreston](https://github.com/victorpreston) | **Victor Preston** |
 | ![](https://avatars.githubusercontent.com/u/63226975?size=32) | [vontanne](https://github.com/vontanne) | **Johannes** |
 | ![](https://avatars.githubusercontent.com/u/23144171?size=32) | [web3batman](https://github.com/web3batman) | **Batman** |
