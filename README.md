@@ -18,6 +18,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | -------------- | --------------- | ----------------- |
 | [<img src="https://avatars.githubusercontent.com/u/170834894?size=32" width="32">](https://avatars.githubusercontent.com/u/170834894) | <s>[osiristape](https://github.com/osiristape)</s> ([archive](https://web.archive.org/web/20241106222014/https://github.com/osiristape))<br>[8ORUZ7](https://github.com/8ORUZ7) | **混沌, オシリス, #f0f3e3**<br>**?, 10000111** |
 | [<img src="https://avatars.githubusercontent.com/u/68489612?size=32" width="32">](https://avatars.githubusercontent.com/u/68489612) | [AlizayAyesha](https://github.com/AlizayAyesha) | **Alizay Yousfzai** |
+| [<img src="https://avatars.githubusercontent.com/u/19151554?size=32" width="32">](https://avatars.githubusercontent.com/u/19151554) | [alxkm](https://github.com/alxkm) | **Oleksandr Klymenko** |
 | [<img src="https://avatars.githubusercontent.com/u/156615728?size=32" width="32">](https://avatars.githubusercontent.com/u/156615728) | [blocage](https://github.com/blocage) | **David** |
 | [<img src="https://avatars.githubusercontent.com/u/116379485?size=32" width="32">](https://avatars.githubusercontent.com/u/116379485) | [codeWithEdison](https://github.com/codeWithEdison) | **Edison UWIHANGANYE** |
 | [<img src="https://avatars.githubusercontent.com/u/115120777?size=32" width="32">](https://avatars.githubusercontent.com/u/115120777) | [dayoonasanya](https://github.com/dayoonasanya) | **Adedayo Onasanya** |
