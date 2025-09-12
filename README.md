@@ -20,6 +20,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | [<img src="https://avatars.githubusercontent.com/u/68489612?size=32" width="32">](https://avatars.githubusercontent.com/u/68489612) | [AlizayAyesha](https://github.com/AlizayAyesha) | **Alizay Yousfzai** |
 | [<img src="https://avatars.githubusercontent.com/u/19151554?size=32" width="32">](https://avatars.githubusercontent.com/u/19151554) | [alxkm](https://github.com/alxkm) | **Oleksandr Klymenko** |
 | [<img src="https://avatars.githubusercontent.com/u/156615728?size=32" width="32">](https://avatars.githubusercontent.com/u/156615728) | [blocage](https://github.com/blocage) | **David** |
+| [<img src="https://avatars.githubusercontent.com/u/78157563?size=32" width="32">](https://avatars.githubusercontent.com/u/78157563) | [Charles-Chrismann](https://github.com/Charles-Chrismann) | **Charles Chrismann** |
 | [<img src="https://avatars.githubusercontent.com/u/116379485?size=32" width="32">](https://avatars.githubusercontent.com/u/116379485) | [codeWithEdison](https://github.com/codeWithEdison) | **Edison UWIHANGANYE** |
 | [<img src="https://avatars.githubusercontent.com/u/115120777?size=32" width="32">](https://avatars.githubusercontent.com/u/115120777) | [dayoonasanya](https://github.com/dayoonasanya) | **Adedayo Onasanya** |
 | [<img src="https://avatars.githubusercontent.com/u/31302763?size=32" width="32">](https://avatars.githubusercontent.com/u/31302763) | [gr8monk3ys](https://github.com/gr8monk3ys) | **Lorenzo** |
