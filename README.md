@@ -37,7 +37,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | [<img src="https://avatars.githubusercontent.com/u/126691024?size=32" width="32">](https://avatars.githubusercontent.com/u/126691024) | [miirshe](https://github.com/miirshe) | **Abdikafi Isse Isak** |
 | [<img src="https://avatars.githubusercontent.com/u/117844250?size=32" width="32">](https://avatars.githubusercontent.com/u/117844250) | <s>codeWithDavide</s><br><s>you-lost-me</s> ([archive](https://web.archive.org/web/20240803022346/https://github.com/you-lost-me))<br><s>JyaburaniTech</s> ([archive](https://web.archive.org/web/20240921110511/https://github.com/JyaburaniTech))<br>[NailTechLtd](https://github.com/NailTechLtd) | **Mr. David**<br>**You lost**<br>**Jyaburani Tech**<br>**Nail Tech Ltd** |
 | [<img src="https://avatars.githubusercontent.com/u/162185250?size=32" width="32">](https://avatars.githubusercontent.com/u/162185250) | [next2golang](https://github.com/next2golang) | **Sam** |
-| [<img src="https://avatars.githubusercontent.com/u/184830396?size=32" width="32">](https://avatars.githubusercontent.com/u/184830396) | <s>mowhn</s> ([archive](https://web.archive.org/web/20250929102037/https://github.com/mowhn))<br>[OcDo-Lab](https://github.com/OcDo-Lab) | **mr_mowhn**<br>**OcDo Lab** |
+| [<img src="https://avatars.githubusercontent.com/u/184830396?size=32" width="32">](https://avatars.githubusercontent.com/u/184830396) | <s>mowhn</s> ([archive](https://web.archive.org/web/20250929102037/https://github.com/mowhn))<br><s>OcDo-Lab</s> ([archive](https://web.archive.org/web/20251223195900/https://github.com/OcDo-Lab))<br>[elx-toxic](https://github.com/elx-toxic) | **mr_mowhn**<br>**OcDo Lab**<br>**elx-toxic** |
 | [<img src="https://avatars.githubusercontent.com/u/8187699?size=32" width="32">](https://avatars.githubusercontent.com/u/8187699) | [onamfc](https://github.com/onamfc) | **Brandon Estrella** |
 | [<img src="https://avatars.githubusercontent.com/u/128073754?size=32" width="32">](https://avatars.githubusercontent.com/u/128073754) | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | **Mr. David** |
 | [<img src="https://avatars.githubusercontent.com/u/64363113?size=32" width="32">](https://avatars.githubusercontent.com/u/64363113) | [qpeckin](https://github.com/qpeckin) | |
@@ -55,7 +55,7 @@ But I encourage you to create your own lists based on your experiences. Feel fre
 | [<img src="https://avatars.githubusercontent.com/u/63226975?size=32" width="32">](https://avatars.githubusercontent.com/u/63226975) | [vontanne](https://github.com/vontanne) | **Johannes**, **Code Alchemy** |
 | [<img src="https://avatars.githubusercontent.com/u/23144171?size=32" width="32">](https://avatars.githubusercontent.com/u/23144171) | [web3batman](https://github.com/web3batman) | **Batman** |
 | [<img src="https://avatars.githubusercontent.com/u/5387930?size=32" width="32">](https://avatars.githubusercontent.com/u/5387930) | [XiaomingX](https://github.com/XiaomingX) | **Y11** |
-| [<img src="https://avatars.githubusercontent.com/u/124587241?size=32" width="32">](https://avatars.githubusercontent.com/u/124587241) | [yogesh45789](https://github.com/yogesh45789) | **Yugandhar Dasari_DEV** |
+| [<img src="https://avatars.githubusercontent.com/u/124587241?size=32" width="32">](https://avatars.githubusercontent.com/u/124587241) | [yogesh45789](https://github.com/yogesh45789) | **Yugandhar Dasari_DEV**, **Yugandhar Dasari** |
 
 <sup>✻</sup><sub>possibly obsolete</sub>
 
